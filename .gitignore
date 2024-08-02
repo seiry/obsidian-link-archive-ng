@@ -11,3 +11,11 @@ main.js
 data.json
 /Folder.DotSettings.user
 .vs
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
